@@ -1,6 +1,5 @@
+### Oxytocin-induced increase of the excitability of SST+ interneurons is sufficient to explain distance-dependent changes in correlation.
 
-
-### Oxytocin shapes spontaneous activity patterns in the developing visual cortex by activating somatostatin interneurons
 ![OT model panels](Model_panels.png)
 
 Jupyter notebook for running the model from Maldonado et al. *Current Biology* 2020 "Oxytocin shapes spontaneous activity patterns in the developing visual cortex by activating somatostatin interneurons"
