@@ -1,7 +1,10 @@
-# OTmodel
 
-Jupyter notebook for running the model from Maldonado et al. *Current Biology* 2020 "Oxytocin shapes spontaneous activity patterns in the developing visual
-cortex by activating somatostatin interneurons"
+
+# Oxytocin shapes spontaneous activity patterns in the developing visual cortex by activating somatostatin interneurons
+![OT model panels](Model_panels.png)
+
+
+Jupyter notebook for running the model from Maldonado et al. *Current Biology* 2020 "Oxytocin shapes spontaneous activity patterns in the developing visual cortex by activating somatostatin interneurons"
 
 To install NEST with Conda, follow steps in the this tutorial : 
 
@@ -13,3 +16,5 @@ and set the flag
 ```
 
 to enable openmpi support. 
+
+
