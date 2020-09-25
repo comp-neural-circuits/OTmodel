@@ -19,7 +19,7 @@ and set the flag
 to enable openmpi support. 
 
 ---
-
+## Author
 Code written by: Jan H Kirchner
 
 email: jan.kirchner [at] brain.mpg.de
